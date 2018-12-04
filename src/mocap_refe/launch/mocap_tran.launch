@@ -1,0 +1,14 @@
+<launch>
+	<include file="$(find mocap_optitrack)/launch/mocap.launch"/>
+	<include file="$(find husky_base)/launch/base.launch"/>
+	<include file="$(find rbx1_nav)/launch/fake_move_base_blank_map.launch"/>
+	
+	<!-- Decide which rigid body id to read, from 1-6 -->
+   　　　　 <node pkg="mocap_refe" type="mocap_refe" name="mocap_refe" > </node>
+     	<node pkg="robot_navigation" type="move_base_square" name="move_base_square" >  
+       
+    </node>
+
+   
+
+</launch>

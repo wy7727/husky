@@ -1,0 +1,8 @@
+prefix=/home/ying/wy_ws/devel/.private/rbx1_description
+
+Name: rbx1_description
+Description: Description of rbx1_description
+Version: 0.4.0
+Cflags: 
+Libs: -L/home/ying/wy_ws/devel/.private/rbx1_description/lib 
+Requires: 

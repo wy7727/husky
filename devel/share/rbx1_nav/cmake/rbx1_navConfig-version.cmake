@@ -1,0 +1,1 @@
+/home/ying/wy_ws/devel/.private/rbx1_nav/share/rbx1_nav/cmake/rbx1_navConfig-version.cmake

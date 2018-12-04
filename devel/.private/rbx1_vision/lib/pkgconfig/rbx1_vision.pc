@@ -1,0 +1,8 @@
+prefix=/home/ying/wy_ws/devel/.private/rbx1_vision
+
+Name: rbx1_vision
+Description: Description of rbx1_vision
+Version: 0.4.0
+Cflags: 
+Libs: -L/home/ying/wy_ws/devel/.private/rbx1_vision/lib 
+Requires: 

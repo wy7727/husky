@@ -1,0 +1,8 @@
+prefix=/home/ying/wy_ws/devel/.private/husky_msgs
+
+Name: husky_msgs
+Description: Description of husky_msgs
+Version: 0.3.0
+Cflags: -I/home/ying/wy_ws/devel/.private/husky_msgs/include
+Libs: -L/home/ying/wy_ws/devel/.private/husky_msgs/lib 
+Requires: std_msgs message_runtime

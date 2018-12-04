@@ -1,0 +1,7 @@
+[ 66%] Built target horizon_legacy
+[35m[1mScanning dependencies of target husky_node[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/husky_node.dir/src/husky_base.cpp.o[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/husky_node.dir/src/husky_hardware.cpp.o[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/husky_node.dir/src/husky_diagnostics.cpp.o[0m
+[ 93%] [32m[1mLinking CXX executable /home/ying/wy_ws/devel/.private/husky_base/lib/husky_base/husky_node[0m
+[100%] Built target husky_node

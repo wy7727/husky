@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target move_base_square[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/move_base_square.dir/src/move_base_square.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ying/wy_ws/devel/.private/robot_navigation/lib/robot_navigation/move_base_square[0m
+[100%] Built target move_base_square

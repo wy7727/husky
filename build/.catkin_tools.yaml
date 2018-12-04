@@ -1,0 +1,6 @@
+devel_space: /home/ying/wy_ws/devel
+install: false
+install_space: /home/ying/wy_ws/install
+profile: default
+source_space: /home/ying/wy_ws/src
+workspace: /home/ying/wy_ws

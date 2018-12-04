@@ -1,0 +1,15 @@
+Symlinking /home/ying/wy_ws/devel/share/rbx1_nav/docs/CalibrateLinearConfig.dox
+Symlinking /home/ying/wy_ws/devel/share/rbx1_nav/docs/CalibrateAngularConfig.dox
+Symlinking /home/ying/wy_ws/devel/share/rbx1_nav/docs/CalibrateLinearConfig-usage.dox
+Symlinking /home/ying/wy_ws/devel/share/rbx1_nav/docs/CalibrateAngularConfig-usage.dox
+Symlinking /home/ying/wy_ws/devel/share/rbx1_nav/docs/CalibrateAngularConfig.wikidoc
+Symlinking /home/ying/wy_ws/devel/share/rbx1_nav/docs/CalibrateLinearConfig.wikidoc
+Symlinking /home/ying/wy_ws/devel/share/rbx1_nav/cmake/rbx1_navConfig.cmake
+Symlinking /home/ying/wy_ws/devel/share/rbx1_nav/cmake/rbx1_navConfig-version.cmake
+Symlinking /home/ying/wy_ws/devel/lib/pkgconfig/rbx1_nav.pc
+Symlinking /home/ying/wy_ws/devel/lib/python2.7/dist-packages/rbx1_nav/__init__.py
+Symlinking /home/ying/wy_ws/devel/lib/python2.7/dist-packages/rbx1_nav/cfg/CalibrateAngularConfig.py
+Symlinking /home/ying/wy_ws/devel/lib/python2.7/dist-packages/rbx1_nav/cfg/CalibrateLinearConfig.py
+Symlinking /home/ying/wy_ws/devel/lib/python2.7/dist-packages/rbx1_nav/cfg/__init__.py
+Symlinking /home/ying/wy_ws/devel/include/rbx1_nav/CalibrateLinearConfig.h
+Symlinking /home/ying/wy_ws/devel/include/rbx1_nav/CalibrateAngularConfig.h

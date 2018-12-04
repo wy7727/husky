@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target mocap_refe[0m
+make[2]: *** No rule to make target '/home/ying/wy_ws/src/mocap_refe/src/mocap_refe.cpp', needed by 'CMakeFiles/mocap_refe.dir/src/mocap_refe.cpp.o'。 停止。
+CMakeFiles/Makefile2:195: recipe for target 'CMakeFiles/mocap_refe.dir/all' failed
+make[1]: *** [CMakeFiles/mocap_refe.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

@@ -1,0 +1,1 @@
+/home/ying/wy_ws/devel/.private/rbx1_bringup/lib/pkgconfig/rbx1_bringup.pc

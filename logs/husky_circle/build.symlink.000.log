@@ -1,0 +1,6 @@
+Symlinking /home/ying/wy_ws/devel/share/husky_circle/cmake/husky_circleConfig-version.cmake
+Symlinking /home/ying/wy_ws/devel/share/husky_circle/cmake/husky_circleConfig.cmake
+Symlinking /home/ying/wy_ws/devel/lib/pkgconfig/husky_circle.pc
+Symlinking /home/ying/wy_ws/devel/lib/husky_circle/listener_my
+Symlinking /home/ying/wy_ws/devel/lib/husky_circle/turtle_my
+Symlinking /home/ying/wy_ws/devel/lib/husky_circle/mid_my

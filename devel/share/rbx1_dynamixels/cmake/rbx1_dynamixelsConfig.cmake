@@ -1,0 +1,1 @@
+/home/ying/wy_ws/devel/.private/rbx1_dynamixels/share/rbx1_dynamixels/cmake/rbx1_dynamixelsConfig.cmake

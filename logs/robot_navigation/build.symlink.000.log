@@ -1,0 +1,4 @@
+Symlinking /home/ying/wy_ws/devel/share/robot_navigation/cmake/robot_navigationConfig.cmake
+Symlinking /home/ying/wy_ws/devel/share/robot_navigation/cmake/robot_navigationConfig-version.cmake
+Symlinking /home/ying/wy_ws/devel/lib/pkgconfig/robot_navigation.pc
+Symlinking /home/ying/wy_ws/devel/lib/robot_navigation/move_base_square

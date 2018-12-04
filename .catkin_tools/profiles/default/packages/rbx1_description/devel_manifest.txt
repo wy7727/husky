@@ -1,0 +1,4 @@
+rbx1/rbx1_description
+/home/ying/wy_ws/devel/.private/rbx1_description/share/rbx1_description/cmake/rbx1_descriptionConfig-version.cmake /home/ying/wy_ws/devel/share/rbx1_description/cmake/rbx1_descriptionConfig-version.cmake
+/home/ying/wy_ws/devel/.private/rbx1_description/share/rbx1_description/cmake/rbx1_descriptionConfig.cmake /home/ying/wy_ws/devel/share/rbx1_description/cmake/rbx1_descriptionConfig.cmake
+/home/ying/wy_ws/devel/.private/rbx1_description/lib/pkgconfig/rbx1_description.pc /home/ying/wy_ws/devel/lib/pkgconfig/rbx1_description.pc

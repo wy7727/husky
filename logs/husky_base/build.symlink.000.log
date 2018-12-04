@@ -1,0 +1,5 @@
+Symlinking /home/ying/wy_ws/devel/share/husky_base/cmake/husky_baseConfig-version.cmake
+Symlinking /home/ying/wy_ws/devel/share/husky_base/cmake/husky_baseConfig.cmake
+Symlinking /home/ying/wy_ws/devel/lib/libhorizon_legacy.so
+Symlinking /home/ying/wy_ws/devel/lib/pkgconfig/husky_base.pc
+Symlinking /home/ying/wy_ws/devel/lib/husky_base/husky_node

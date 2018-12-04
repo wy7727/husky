@@ -1,0 +1,5 @@
+mocap_refe
+/home/ying/wy_ws/devel/.private/mocap_refe/share/mocap_refe/cmake/mocap_refeConfig.cmake /home/ying/wy_ws/devel/share/mocap_refe/cmake/mocap_refeConfig.cmake
+/home/ying/wy_ws/devel/.private/mocap_refe/share/mocap_refe/cmake/mocap_refeConfig-version.cmake /home/ying/wy_ws/devel/share/mocap_refe/cmake/mocap_refeConfig-version.cmake
+/home/ying/wy_ws/devel/.private/mocap_refe/lib/pkgconfig/mocap_refe.pc /home/ying/wy_ws/devel/lib/pkgconfig/mocap_refe.pc
+/home/ying/wy_ws/devel/.private/mocap_refe/lib/mocap_refe/mocap_refe /home/ying/wy_ws/devel/lib/mocap_refe/mocap_refe

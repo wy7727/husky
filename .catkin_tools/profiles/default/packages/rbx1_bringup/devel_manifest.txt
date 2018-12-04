@@ -1,0 +1,4 @@
+rbx1/rbx1_bringup
+/home/ying/wy_ws/devel/.private/rbx1_bringup/share/rbx1_bringup/cmake/rbx1_bringupConfig.cmake /home/ying/wy_ws/devel/share/rbx1_bringup/cmake/rbx1_bringupConfig.cmake
+/home/ying/wy_ws/devel/.private/rbx1_bringup/share/rbx1_bringup/cmake/rbx1_bringupConfig-version.cmake /home/ying/wy_ws/devel/share/rbx1_bringup/cmake/rbx1_bringupConfig-version.cmake
+/home/ying/wy_ws/devel/.private/rbx1_bringup/lib/pkgconfig/rbx1_bringup.pc /home/ying/wy_ws/devel/lib/pkgconfig/rbx1_bringup.pc

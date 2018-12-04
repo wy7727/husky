@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target mocap_refe[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/mocap_refe.dir/src/mocap_refe.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ying/wy_ws/devel/.private/mocap_refe/lib/mocap_refe/mocap_refe[0m
+[100%] Built target mocap_refe

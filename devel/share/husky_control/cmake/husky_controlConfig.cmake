@@ -1,0 +1,1 @@
+/home/ying/wy_ws/devel/.private/husky_control/share/husky_control/cmake/husky_controlConfig.cmake

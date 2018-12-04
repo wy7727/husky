@@ -1,0 +1,8 @@
+prefix=/home/ying/wy_ws/devel/.private/move_base_msgs
+
+Name: move_base_msgs
+Description: Description of move_base_msgs
+Version: 1.13.0
+Cflags: -I/home/ying/wy_ws/devel/.private/move_base_msgs/include
+Libs: -L/home/ying/wy_ws/devel/.private/move_base_msgs/lib 
+Requires: 

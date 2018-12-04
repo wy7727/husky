@@ -1,0 +1,8 @@
+prefix=/home/ying/wy_ws/install
+
+Name: mocap_optitrack
+Description: Description of mocap_optitrack
+Version: 0.0.0
+Cflags: -I/home/ying/wy_ws/install/include
+Libs: -L/home/ying/wy_ws/install/lib 
+Requires: roscpp message_runtime

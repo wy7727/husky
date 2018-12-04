@@ -1,0 +1,21 @@
+[35m[1mScanning dependencies of target mocap_refe[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/mocap_refe.dir/src/mocap_refe.cpp.o[0m
+[01m[K/home/ying/wy_ws/src/mocap_refe/src/mocap_refe.cpp:[m[K In function ‘[01m[Kvoid mocap_optitrack_cb(const ConstPtr&)[m[K’:
+[01m[K/home/ying/wy_ws/src/mocap_refe/src/mocap_refe.cpp:30:17:[m[K [01;31m[Kerror: [m[K‘[01m[Kgeometry_msgs::PoseWithCovariance_<std::allocator<void> >::_pose_type {aka struct geometry_msgs::Pose_<std::allocator<void> >}[m[K’ has no member named ‘[01m[Kpose[m[K’
+  odom.pose.pose.pose.orientation.y = msg->pose.orientation.y;
+[01;32m[K                 ^[m[K
+[01m[K/home/ying/wy_ws/src/mocap_refe/src/mocap_refe.cpp:31:17:[m[K [01;31m[Kerror: [m[K‘[01m[Kgeometry_msgs::PoseWithCovariance_<std::allocator<void> >::_pose_type {aka struct geometry_msgs::Pose_<std::allocator<void> >}[m[K’ has no member named ‘[01m[Kpose[m[K’
+  odom.pose.pose.pose.orientation.z = msg->pose.orientation.z;
+[01;32m[K                 ^[m[K
+[01m[K/home/ying/wy_ws/src/mocap_refe/src/mocap_refe.cpp:32:17:[m[K [01;31m[Kerror: [m[K‘[01m[Kgeometry_msgs::PoseWithCovariance_<std::allocator<void> >::_pose_type {aka struct geometry_msgs::Pose_<std::allocator<void> >}[m[K’ has no member named ‘[01m[Kpose[m[K’
+  odom.pose.pose.pose.orientation.w = msg->pose.orientation.w;
+[01;32m[K                 ^[m[K
+[01m[K/home/ying/wy_ws/src/mocap_refe/src/mocap_refe.cpp:34:2:[m[K [01;31m[Kerror: [m[K‘[01m[Kmocap_broadcast[m[K’ was not declared in this scope
+  mocap_broadcast.publish(odom);
+[01;32m[K  ^[m[K
+CMakeFiles/mocap_refe.dir/build.make:62: recipe for target 'CMakeFiles/mocap_refe.dir/src/mocap_refe.cpp.o' failed
+make[2]: *** [CMakeFiles/mocap_refe.dir/src/mocap_refe.cpp.o] Error 1
+CMakeFiles/Makefile2:195: recipe for target 'CMakeFiles/mocap_refe.dir/all' failed
+make[1]: *** [CMakeFiles/mocap_refe.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

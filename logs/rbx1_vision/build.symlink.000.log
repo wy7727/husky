@@ -1,0 +1,4 @@
+Symlinking /home/ying/wy_ws/devel/share/rbx1_vision/cmake/rbx1_visionConfig-version.cmake
+Symlinking /home/ying/wy_ws/devel/share/rbx1_vision/cmake/rbx1_visionConfig.cmake
+Symlinking /home/ying/wy_ws/devel/lib/pkgconfig/rbx1_vision.pc
+Symlinking /home/ying/wy_ws/devel/lib/python2.7/dist-packages/rbx1_vision/__init__.py

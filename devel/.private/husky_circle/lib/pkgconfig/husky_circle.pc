@@ -1,0 +1,8 @@
+prefix=/home/ying/wy_ws/devel/.private/husky_circle
+
+Name: husky_circle
+Description: Description of husky_circle
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ying/wy_ws/devel/.private/husky_circle/lib 
+Requires: 

@@ -1,0 +1,7 @@
+Symlinking /home/ying/wy_ws/devel/share/learning_tf2/cmake/learning_tf2Config.cmake
+Symlinking /home/ying/wy_ws/devel/share/learning_tf2/cmake/learning_tf2Config-version.cmake
+Symlinking /home/ying/wy_ws/devel/lib/pkgconfig/learning_tf2.pc
+Symlinking /home/ying/wy_ws/devel/lib/learning_tf2/turtle_tf2_broadcaster
+Symlinking /home/ying/wy_ws/devel/lib/learning_tf2/static_turtle_tf2_broadcaster
+Symlinking /home/ying/wy_ws/devel/lib/learning_tf2/turtle_tf2_listener
+Symlinking /home/ying/wy_ws/devel/lib/learning_tf2/frame_tf2_broadcaster

@@ -1,0 +1,1 @@
+/home/ying/wy_ws/devel/.private/move_base_msgs/include/move_base_msgs/MoveBaseGoal.h

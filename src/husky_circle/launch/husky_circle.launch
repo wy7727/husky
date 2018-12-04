@@ -1,0 +1,14 @@
+<launch>
+     
+    <!-- Axes -->
+    <param name="scale_linear" value="2" type="double"/>
+    <param name="scale_angular" value="2" type="double"/>
+
+     <node pkg="husky_circle" type="listener_my"  
+        name="listener" />  
+     <node pkg="husky_circle" type="mid_my"
+          name="broadcaster_mid" />
+     
+  <!--  <node pkg="husky_circle" type="turtle_my"-->
+     <!--     name="odom_tf2_broadcaster" />  -->
+  </launch>

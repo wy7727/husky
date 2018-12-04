@@ -1,0 +1,8 @@
+prefix=/home/ying/wy_ws/devel/.private/husky_navigation
+
+Name: husky_navigation
+Description: Description of husky_navigation
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/ying/wy_ws/devel/.private/husky_navigation/lib 
+Requires: 

@@ -1,0 +1,4 @@
+Symlinking /home/ying/wy_ws/devel/share/mocap_optitrack/cmake/mocap_optitrackConfig-version.cmake
+Symlinking /home/ying/wy_ws/devel/share/mocap_optitrack/cmake/mocap_optitrackConfig.cmake
+Symlinking /home/ying/wy_ws/devel/lib/pkgconfig/mocap_optitrack.pc
+Symlinking /home/ying/wy_ws/devel/lib/mocap_optitrack/mocap_node

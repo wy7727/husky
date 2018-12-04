@@ -1,0 +1,1 @@
+/home/ying/wy_ws/devel/.private/husky_circle/lib/pkgconfig/husky_circle.pc

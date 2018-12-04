@@ -1,0 +1,1 @@
+/home/ying/wy_ws/devel/.private/rbx1_speech/share/rbx1_speech/cmake/rbx1_speechConfig.cmake

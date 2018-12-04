@@ -1,0 +1,4 @@
+rbx1/rbx1_apps
+/home/ying/wy_ws/devel/.private/rbx1_apps/share/rbx1_apps/cmake/rbx1_appsConfig-version.cmake /home/ying/wy_ws/devel/share/rbx1_apps/cmake/rbx1_appsConfig-version.cmake
+/home/ying/wy_ws/devel/.private/rbx1_apps/share/rbx1_apps/cmake/rbx1_appsConfig.cmake /home/ying/wy_ws/devel/share/rbx1_apps/cmake/rbx1_appsConfig.cmake
+/home/ying/wy_ws/devel/.private/rbx1_apps/lib/pkgconfig/rbx1_apps.pc /home/ying/wy_ws/devel/lib/pkgconfig/rbx1_apps.pc

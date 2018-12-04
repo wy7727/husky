@@ -1,0 +1,8 @@
+prefix=/home/ying/wy_ws/install
+
+Name: husky_gazebo
+Description: Description of husky_gazebo
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/ying/wy_ws/install/lib 
+Requires: 

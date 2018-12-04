@@ -1,0 +1,8 @@
+prefix=/home/ying/wy_ws/install
+
+Name: map_msgs
+Description: Description of map_msgs
+Version: 1.13.0
+Cflags: -I/home/ying/wy_ws/install/include
+Libs: -L/home/ying/wy_ws/install/lib 
+Requires: std_msgs sensor_msgs nav_msgs

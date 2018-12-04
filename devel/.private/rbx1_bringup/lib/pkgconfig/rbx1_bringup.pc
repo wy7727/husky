@@ -1,0 +1,8 @@
+prefix=/home/ying/wy_ws/devel/.private/rbx1_bringup
+
+Name: rbx1_bringup
+Description: Description of rbx1_bringup
+Version: 0.4.0
+Cflags: 
+Libs: -L/home/ying/wy_ws/devel/.private/rbx1_bringup/lib 
+Requires: 

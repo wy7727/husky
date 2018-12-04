@@ -1,0 +1,3 @@
+make[2]: *** No rule to make target '/home/ying/wy_ws/src/mocap_refe/src/mocap_refe.cpp', needed by 'CMakeFiles/mocap_refe.dir/src/mocap_refe.cpp.o'。 停止。
+make[1]: *** [CMakeFiles/mocap_refe.dir/all] Error 2
+make: *** [all] Error 2

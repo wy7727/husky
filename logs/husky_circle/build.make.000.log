@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target turtle_my[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/turtle_my.dir/src/turtle_my.cpp.o[0m
+[35m[1mScanning dependencies of target listener_my[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/listener_my.dir/src/listener_my.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable /home/ying/wy_ws/devel/.private/husky_circle/lib/husky_circle/turtle_my[0m
+[ 50%] Built target turtle_my
+[35m[1mScanning dependencies of target mid_my[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/mid_my.dir/src/mid_my.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable /home/ying/wy_ws/devel/.private/husky_circle/lib/husky_circle/mid_my[0m
+[ 83%] Built target mid_my
+[100%] [32m[1mLinking CXX executable /home/ying/wy_ws/devel/.private/husky_circle/lib/husky_circle/listener_my[0m
+[100%] Built target listener_my
