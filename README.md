@@ -34,4 +34,4 @@
 - *<remap from="husky_velocity_controller/odom" to="tim"/>
 - 把机器人动捕系统得出的机器人位姿话题重新发送到odom话题，替换掉机器人原先位置：创建mocap_ref.cpp
 
-
+- husky在实体机中运行，需要安装sudo apt-get install ros-kinetic-husky.github下来的没办法跟husky连接
