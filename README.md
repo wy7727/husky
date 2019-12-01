@@ -21,7 +21,7 @@
 - rbx1这个包可打开move_base节点，但这个包是在网上下载的，与move_base教程不一样。
 - 需要安装sudo apt-get install ros-kinetic-navigation，manigation_msg等，而且还有教程http://wiki.ros.org/navigation/Tutorials
 - 而且百度上的move_base教程可能只是针对husky等一些特定的车，但并不针对另一类型的车，比如在运行ridgeright的仿真时，出现tferror:提示base_footprint不存在，处理方法是在fake_move_base_blank_map.launch中加入坐标广播，如下。所以可能自己创建move_base节点要参考navigation教程
-- <node pkg="tf" type="static_transform_publisher" name="base_footprint_to_base_link" args="0.0 0.0 0.0 0 0 0.0 /base_link /base_footprint 100"/>
+- *<node pkg="tf" type="static_transform_publisher" name="base_footprint_to_base_link" args="0.0 0.0 0.0 0 0 0.0 /base_link /base_footprint 100"/>
 
 - 3 rviz 
 - husky仿真输出的自身位置坐标odom可能不准确，但是在rivz才能准确观察机器人的坐标变化
@@ -31,7 +31,7 @@
 #### 实体机操作
 - 动捕系统：把动捕系统得到的机器人的位姿发送给tf,替换点机器人自身测量的位置
 - 把原先husky节点发布的话题（机器人自身测量的位置）重映射到其他话题:在husky_base.launch文件的husky_node节点下添加以下代码 
-- <remap from="husky_velocity_controller/odom" to="tim"/>
+- *<remap from="husky_velocity_controller/odom" to="tim"/>
 - 把机器人动捕系统得出的机器人位姿话题重新发送到odom话题，替换掉机器人原先位置：创建mocap_ref.cpp
 
 
